@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BgFundz</string>
+    <string name="share">Share</string>
+    <string name="rate">Rate us</string>
+    <string name="open_facebook">Open Twitter</string>
+    <string name="cookies_amp_cache"><![CDATA[Clear cookies & cache]]></string>
+    <string name="open_drawer">Open navigtion drawer</string>
+    <string name="close_drawer">Close navigation drawer</string>
+    <string name="bgfundz">bgfundz</string>
+    <string name="save_facebook_link">Save Twitter link</string>
+    <string name="exit">Exit</string>
+    <string name="paste_facebook_link">Copy Twitter link</string>
+    <string name="to_save_your_facebook_profile_link_for_easy_withdrawal_simply_following_these_screenshots_below">To save your facebook profile link for easy withdrawal, simply following these screenshots below</string>
+    <string name="after_this_step_come_back_here_and_paste_the_code_below_and_click_save">After this step come back to the SAVE FACEBOOK LINK page and paste the code below and click save</string>
+    <string name="entertainment">Entertainment</string>
+</resources>

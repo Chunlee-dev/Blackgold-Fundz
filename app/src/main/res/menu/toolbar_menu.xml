@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_share"
+        android:icon="@drawable/ic_share_black_24dp"
+        android:title="@string/share"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/Cookies"
+        android:title="@string/cookies_amp_cache"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/facebookItem"
+        android:title="Open Twitter">
+   <!--     <menu>
+            <item
+                android:id="@+id/pfplink"
+                android:title="@string/paste_facebook_link"
+                app:showAsAction="never" />
+
+            <item
+                android:id="@+id/sfplink"
+                android:title="@string/save_facebook_link"
+                app:showAsAction="never" />
+
+            <item
+                android:id="@+id/face"
+                android:title="@string/open_facebook"
+                app:showAsAction="never" />
+
+        </menu>-->
+    </item>
+
+    <item
+        android:id="@+id/nav_rate"
+        android:title="@string/rate"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/exit"
+        android:title="@string/exit"
+        app:showAsAction="never" />
+
+</menu>

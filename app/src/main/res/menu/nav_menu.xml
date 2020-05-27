@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/account"
+        android:title="My account" />
+    <item
+        android:id="@+id/register"
+        android:title="Register" />
+    <item
+        android:id="@+id/howitworks"
+        android:title="How it works" />
+    <item
+        android:id="@+id/coupon"
+        android:title="Coupon distributor" />
+    <item
+        android:id="@+id/advertise"
+        android:title="Advertise with us" />
+    <item
+        android:id="@+id/top5earners"
+        android:title="Top 5 earners" />
+    <item
+        android:id="@+id/terms"
+        android:title="Terms &amp; conditions" />
+    <item
+        android:id="@+id/support"
+        android:title="Support" />
+    <item
+        android:id="@+id/about"
+        android:title="About us" />
+
+
+    <item
+        android:id="@+id/title2"
+        android:title="ACCOUNT">
+        <menu>
+            <item
+                android:id="@+id/sponsored"
+                android:title="Sponsored posts" />
+            <item
+                android:id="@+id/submit"
+                android:title="Submit posts" />
+            <item
+                android:id="@+id/withdrawal"
+                android:title="Withdrawal" />
+            <item
+                android:id="@+id/logout"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+
+    <item
+        android:id="@+id/title"
+        android:title="NEWS UPDATES">
+        <menu>
+            <item
+                android:id="@+id/entertain"
+                android:title="Entertainment" />
+            <item
+                android:id="@+id/educate"
+                android:title="Education" />
+            <item
+                android:id="@+id/lifestyle"
+                android:title="Lifestyle" />
+            <item
+                android:id="@+id/finance"
+                android:title="Finance" />
+            <item
+                android:id="@+id/politics"
+                android:title="Politics" />
+            <item
+                android:id="@+id/sports"
+                android:title="Sports" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/title1"
+        android:title="AFFILIATE AREA">
+        <menu>
+            <item
+                android:id="@+id/affiliateinfo"
+                android:title="Affiliate info" />
+            <item
+                android:id="@+id/edit"
+                android:title="Edit profile" />
+            <item
+                android:id="@+id/paidreferrals"
+                android:title="Paid referrals" />
+            <item
+                android:id="@+id/referrals"
+                android:title="Referrals" />
+            <item
+                android:id="@+id/visits"
+                android:title="Visits" />
+            <item
+                android:id="@+id/settings"
+                android:title="Settings" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/title3"
+        android:title="COMMUNICATION">
+        <menu>
+            <item
+                android:id="@+id/twitter"
+                android:title="Twitter handle" />
+            <item
+                android:id="@+id/facebook"
+                android:title="Facebook page" />
+            <item
+                android:id="@+id/instagram"
+                android:title="Instagram page" />
+            <item
+                android:id="@+id/telegram"
+                android:title="Telegram channel" />
+        </menu>
+    </item>
+
+</menu>
